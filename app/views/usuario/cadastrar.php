@@ -1,9 +1,11 @@
-
 <div class="grid_12">
 	<div class="page-header" style="margin-top: 5px; margin-bottom: 10px;">
 		<h1>Usuário <small>Cadastrar</small></h1>
 	</div>
 </div>
+<script type="text/javascript">
+	Alert("Nada");
+</script>
 <div class="grid_12">
 	<div style="width: 800px; margin: auto;">
 		<?= flash ?>
